@@ -1,0 +1,6 @@
+[
+  {"id": "S001", "equipo": "Sensor de inclinación", "cantidad": 2, "urgencia": "alta", "stock": 3},
+  {"id": "S002", "equipo": "Datalogger", "cantidad": 1, "urgencia": "alta", "stock": 0},
+  {"id": "S003", "equipo": "Cable de comunicación", "cantidad": 10, "urgencia": "baja", "stock": 20},
+  {"id": "S004", "equipo": "Conectores", "cantidad": 5, "urgencia": "media", "stock": 2}
+]
